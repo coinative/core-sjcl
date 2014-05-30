@@ -1,0 +1,25 @@
+{
+  "name": "core-sjcl",
+  "version": "0.0.0",
+  "description": "",
+  "main": "dist/core-sjcl.js",
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "test": "./node_modules/.bin/karma start"
+  },
+  "dependencies": {
+    "sjcl": "git://github.com/bitwiseshiftleft/sjcl#d3aa269e",
+    "uglify-js": "^2.4.13"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "karma": "^0.12.16",
+    "karma-chai": "^0.1.0",
+    "karma-cli": "0.0.4",
+    "karma-mocha": "^0.1.3",
+    "karma-mocha-reporter": "^0.2.5",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "mocha": "^1.20.0"
+  }
+}

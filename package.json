@@ -1,9 +1,9 @@
 {
   "name": "core-sjcl",
   "version": "0.0.0",
-  "description": "",
+  "description": "SJCL with custom extensions",
   "main": "dist/core-sjcl.js",
-  "author": "",
+  "author": "Ben Shepheard <ben@coinative.com>",
   "license": "MIT",
   "scripts": {
     "test": "./node_modules/.bin/karma start",

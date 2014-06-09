@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "SJCL with custom extensions",
   "main": "dist/core-sjcl.js",
+  "browser": {
+    "crypto": "./crypto.stub"
+  },
   "author": "Ben Shepheard <ben@coinative.com>",
   "license": "MIT",
   "scripts": {

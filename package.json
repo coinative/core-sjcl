@@ -1,6 +1,6 @@
 {
   "name": "satoshi-sjcl",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "SJCL with custom extensions",
   "main": "dist/satoshi-sjcl.js",
   "browser": {

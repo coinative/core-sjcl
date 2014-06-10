@@ -6,8 +6,6 @@ SJCL and extensions for coinative modules.
 
 ## Install
 
-Not currently hosted on npmjs.org. Take this module as a git dependency via:
-
 ```
 npm install satoshi-sjcl
 ```

@@ -12,4 +12,4 @@ LIB_SRC=$(find ./lib -name "*.js")
 
 # Concatenate SJCL with our extensions
 mkdir -p dist
-./node_modules/.bin/uglifyjs $SJCL_SRC $LIB_SRC -b --output dist/core-sjcl.js
+./node_modules/.bin/uglifyjs $SJCL_SRC $LIB_SRC -b --output dist/satoshi-sjcl.js

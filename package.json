@@ -1,8 +1,8 @@
 {
-  "name": "core-sjcl",
+  "name": "satoshi-sjcl",
   "version": "0.0.0",
   "description": "SJCL with custom extensions",
-  "main": "dist/core-sjcl.js",
+  "main": "dist/satoshi-sjcl.js",
   "browser": {
     "crypto": "./crypto.stub"
   },
@@ -10,7 +10,8 @@
   "license": "MIT",
   "scripts": {
     "test": "./node_modules/.bin/karma start",
-    "test-travis": "./node_modules/.bin/karma start"
+    "test-travis": "./node_modules/.bin/karma start",
+    "build": "./build.sh"
   },
   "devDependencies": {
     "chai": "^1.9.1",

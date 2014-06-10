@@ -1,6 +1,6 @@
-# @coinative/core-sjcl
+# @coinative/satoshi-sjcl
 
-[![Build Status](https://travis-ci.org/coinative/core-sjcl.svg?branch=master)](https://travis-ci.org/coinative/core-sjcl)
+[![Build Status](https://travis-ci.org/coinative/satoshi-sjcl.svg?branch=master)](https://travis-ci.org/coinative/satoshi-sjcl)
 
 SJCL and extensions for coinative modules.
 
@@ -9,7 +9,7 @@ SJCL and extensions for coinative modules.
 Not currently hosted on npmjs.org. Take this module as a git dependency via:
 
 ```
-npm install coinative/core-sjcl
+npm install coinative/satoshi-sjcl
 ```
 
 ## License

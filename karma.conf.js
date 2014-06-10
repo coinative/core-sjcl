@@ -9,7 +9,7 @@ module.exports = function(config) {
 
     // list of files / patterns to load in the browser
     files: [
-      'dist/core-sjcl.js',
+      'dist/satoshi-sjcl.js',
       'test/support/convert.js',
       'test/*.js'
     ],
